@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        TEAMS_WEBHOOK_URL = 'https://lpnu.webhook.office.com/webhookb2/687e750c-bcee-4590-941e-c594a6d020c9@7631cd62-5187-4e15-8b8e-ef653e366e7a/IncomingWebhook/0f62f9720b8047398e1d80d0a66cb305/ce7527d8-657b-4c4b-a503-21037b76bdf3/V2V6HRLMo5jxqd2JPpdyiC0eH4E3PB0f1ok3UhcEhUj81'
+        TEAMS_WEBHOOK_URL = 'https://lpnu.webhook.office.com/webhookb2/687e750c-bcee-4590-941e-c594a6d020c9@7631cd62-5187-4e15-8b8e-ef653e366e7a/IncomingWebhook/bed09bc40eb742f0a2de3d23b91fd631/ce7527d8-657b-4c4b-a503-21037b76bdf3/V2CgRRIzo46kyeqfcQ8Xxc8Zi-t4NoVOfRMQkIPhDYcNc1'
     }
 
     stages {
